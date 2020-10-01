@@ -4,15 +4,9 @@
 int main()
 {
     printf("Hello world!\n");
-
-    printf("second commit data \n ");
-    printf("GenKin IntegrationData\n");
-
-    printf("GenKin second IntegrationData\n");
-
-
-
-    printf("GenKin THird IntegrationData\n");
-
+    printf("\nsecond commit data \n ");
+    printf("\nGenKin IntegrationData\n");
+    printf("\nGenKin second IntegrationData\n");
+    printf("\nGenKin THird IntegrationData\n");
     return 0;
 }
